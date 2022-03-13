@@ -39,8 +39,10 @@ baseurl: "/rhino" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: arjan_hada
+    linkedin: arjan-hada
     github: arjan-hada
+    twitter: arjan_hada
+    
 
 # Set this to true to get LaTeX math equation support
 use_math: true
